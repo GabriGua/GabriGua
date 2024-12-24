@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer and creator, focused on
   - Recent project: **Spong** (v1.1.0) – available on Android, featuring a thrilling PvP mode.
 - **📺 YouTuber**: I run a YouTube channel dedicated to game development tutorials and Unity tips, helping developers improve their skills and attract newcomers to the field.
   - Current Goal: Reach **1,000 subscribers** and grow a vibrant game development community.
-- **📱 App Developer**: I'm currently building **Aurium**, a Flutter-based social media app with innovative features like aura-based reputation and interactive post mechanics.
 - **🤖 Tech Enthusiast**: I explore AI solutions that mimic human-like teaching and strive to implement privacy-focused digital solutions.
 
 ---
