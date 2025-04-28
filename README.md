@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer and creator, focused on
 
 ### 🌐 My YouTube Channel and itch.io
 
-- **YouTube**: [https://www.youtube.com/@SG4BB0dev](https://www.youtube.com/@SG4BB0dev)
+- **YouTube**: [https://www.youtube.com/@SgabbsDev](https://www.youtube.com/@SgabbsDev)
 - **itch.io**: [https://sg4bb0dev.itch.io/](https://sg4bb0dev.itch.io/)
 
 ---
